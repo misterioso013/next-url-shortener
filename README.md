@@ -8,6 +8,7 @@ To run this project locally, you can use the following commands:
 
 ```bash
 bun install
+bun run drizzle:push
 bun dev
 ```
 > You can also use `yarn` or `npm` instead of `bun`.
